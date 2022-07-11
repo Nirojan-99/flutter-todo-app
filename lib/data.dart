@@ -1,7 +1,5 @@
 import 'package:app_new/Model/Todo.dart';
 
-TODO todo = TODO(listName: "TODO", date: DateTime.now());
-
 var todoList = [
   TODO(listName: "TODO1", date: DateTime.now()),
   TODO(listName: "TODO2", date: DateTime.now()),
